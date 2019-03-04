@@ -9,7 +9,7 @@ Typing Discipline:
 Static and dynamic(through variants and type annotations), nominative and structural, manifest and inferred(optional), weak and strong(optional), parametric, flow-sensitive, typed, untyped(optional), unsafe, safe (optional), duck(optional). 
 
  Influenced by:
-HTML	tags
+HTML	| tags
 CSS	| enumeration; colon for member access; dashes inside names; Properties; color code properties;
 C	| pointers and memory management; type declaration; "inclu de"; directives
 C#	| partial classes and modularity; instantiating; Assembly; Namespaces; exception handling; regions; Case Sensitive; Delegation; indexers; automatic properties;
@@ -47,6 +47,7 @@ Clojure	| Agents
 WurstScript	| Loop techniques; keywords; check techniques;
 Dart	| "new" statement and statement-scope
 English	| Quick fix; hashtag; general language syntax
+
 
 What you will find here:
 
