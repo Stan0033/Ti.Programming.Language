@@ -10,42 +10,69 @@ Static and dynamic(through variants and type annotations), nominative and struct
 
  Influenced by:
 HTML	| tags
+
 CSS	| enumeration; colon for member access; dashes inside names; Properties; color code properties;
+
 C	| pointers and memory management; type declaration; "inclu de"; directives
+
 C#	| partial classes and modularity; instantiating; Assembly; Namespaces; exception handling; regions; Case Sensitive; Delegation; indexers; automatic properties;
+
 C++	| Overloading; Generic Programming; templates; access blocks; multiple inheritance; scope resolution operator; construtors and destructors
+
 Kotlin	| top-level functions; data class; destructuring; 'until'; 'step'; '!is'; 'as' casting
 Java	| checked and unchecked exceptions; downcasting and upcasting
+
 VB.NET	| If/Then; Me; Various keywords; structural equivalence of implicit types; Event handling; 'as' syntax (optional); variant type; method cascading;
+
 Dark Basic	| 'Wait key'; 'Wait input'
+
 Python	| Off-Side Rule; colon for blocks; 'def'(optional)
 Ruby	| Various Keywords; Mixins; default arguments; metaclasses; coroutines; parallel assignment; accessing Super class; flip-flop operator; Eveything is an object;
+
 Perl	| Unless; My; Our; output ranges; dashes inside object names
 GML	| Repeat (loop)
+
 JASS	| inspired syntax of functions and subroutines; reverse ifs; "call" and similar for subroutines; "set"; 'loop';
+
 SQL	| Various Keywords and syntax; auto-increment
+
 COBOL	| ending statements with a period; writing computations with words; various keywords
+
 ABAP	| 'replace' statement;
 Pascal	| Repeat (loops); arrays count from 1;
 Scala	| Type Enrichment; lazy evaluation (optional); Currying; closures; Higher-order functions; pattern matching
+
 Go	| Defer, Zero Value (optional)
+
 Applescript	| Various Keywords; ; "display"; comments
 Racket	| 'Let'(optional); 'define'(optional)
+
 OCaml	| Functor;
+
 Julia	| various operators; unicode operators; unicode support; multiple dispatch; green threading; multiplication operator not needed in certain cases;
 Crystal	| Multiline String; string attributes
+
 Lisp	| Brackets(optional); Macros
+
 Oberon	| Static and dynamic typing (hybridd)
+
 Coffeescript	| isnt
+
 Nim	| procedure can be called without parenthesis (optional); uniform function call; 'echo'(optional)
+
 Swift	| Open-ended ranges; fallthrough(optional)
+
 Elixir	| Metaprogramming; direct AST manipulation; ; railway programming
 Erlang	| distributed; hot swapping; fault-tolerant; pids and ports
+
 Eiffel	| Renaming; redefinition; Contract; once routines;
 F#	| Pipelining; 'of' alternative for subroutines; 'type';
 Clojure	| Agents
+
 WurstScript	| Loop techniques; keywords; check techniques;
+
 Dart	| "new" statement and statement-scope
+
 English	| Quick fix; hashtag; general language syntax
 
 
